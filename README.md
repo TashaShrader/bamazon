@@ -5,3 +5,4 @@ npm install
 
 npm install inquirer
 
+npm install mysql
