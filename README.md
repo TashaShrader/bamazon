@@ -33,7 +33,7 @@ The app should then prompt users with two messages:
 * asks them the ID of the product they would like to buy
 * asks how many units of the product they would like to buy
 
-![img](/images/input.png)
+![img](/images/insert.png)
 
 Once the customer has placed the order, your application will check if the bamazon store has enough of the product to meet the customer's request
 
