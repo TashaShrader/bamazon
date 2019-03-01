@@ -33,3 +33,9 @@ CREATE TABLE customer (
     numUnits INT(255)
  
 );
+
+-- INSERT INTO customer (item_id, numUnits);
+-- VALUE (userProduct, userUnit);
+
+
+
