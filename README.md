@@ -51,4 +51,4 @@ Then it will input the data the customer put in and create a table in mySQL data
 
 ## Heres a link for a screencastify of my programs! ##
 
-[bamazon!](http://github.com)
+[bamazon!](https://drive.google.com/file/d/1gbiGH6_blh5JcG7ZCZp6MHymSwDWnW22/view)
