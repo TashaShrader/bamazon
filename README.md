@@ -48,3 +48,7 @@ If there is enough in stock it will inform the customer there is enough product,
 Then it will input the data the customer put in and create a table in mySQL database.
 
 ![img](/images/customerSQL.png)
+
+## Heres a link for a screencastify of my programs! ##
+
+[bamazon!](http://github.com)
